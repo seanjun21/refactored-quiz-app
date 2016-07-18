@@ -1,0 +1,17 @@
+body {
+  background-color: aliceblue;
+}
+.container {
+  padding-top: 10rem;
+  margin: 0 auto;
+  max-width: 60%;
+  text-align: center;
+}
+.container ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+.container button {
+  width: 5rem;
+}
+/*# sourceMappingURL=refactored-quiz-app.1.0.0.css.map */
